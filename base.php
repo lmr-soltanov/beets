@@ -1,0 +1,1 @@
+<?php $site_url = "http://beets.loc"; ?>
